@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">EmployeeCrud</string>
+    <string name="app_name">Sample_Project</string>
+    <string name="Title"> Sample Project Kotlin using Firebase </string>
+
+    <string name="btnInsertData"> Insert Data </string>
+    <string name="btnFetchData"> Fetch Data </string>
+
+    <string name="btnSaveData"> Save Data </string>
+
+    <string name="tvEmpName"> Emp Name</string>
+
+    <string name="btnUpdate"> Update Data </string>
+    <string name="btnDelete"> Delete </string>
+
 </resources>

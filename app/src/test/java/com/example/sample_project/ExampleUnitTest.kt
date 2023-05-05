@@ -1,4 +1,4 @@
-package com.example.employeecrud
+package com.example.sample_project
 
 import org.junit.Test
 
