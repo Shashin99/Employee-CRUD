@@ -6,5 +6,5 @@ Using Android Studio ,
 Database - Firebase, 
 Language - Kotlin
 
-implemeted by 
+implemented by 
 IT21355196 ( Kalpajith K L S)
