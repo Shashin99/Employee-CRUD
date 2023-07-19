@@ -1,9 +1,10 @@
 # Employee-CRUD
-MAD - A simple CRUD implementation using Kotlin and Firebase based on Android Studio
+Mobile Application Development (MAD) <br/>
+- A simple CRUD implementation using Kotlin and Firebase based on Android Studio <br>
 
-This is the Simple CRUD operation (Create , Retrieve, Update, Delete)
-Using Android Studio , 
-Database - Firebase, 
+- This is the Simple CRUD operation (Create , Retrieve, Update, Delete)
+Using Android Studio , <br>
+Database - Firebase, <br>
 Language - Kotlin
 
 implemented by 
